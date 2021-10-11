@@ -1,5 +1,5 @@
 # 3pillar-lab-TSQLProject
-BD College / Inventory -> 
+BD College -> 
   
     BD ->
       Script ->
