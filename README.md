@@ -1,3 +1,6 @@
 # 3pillar-lab-TSQLProject
-BD College
+BD College: 
+  -BD
+    -Script
+    -Models
 BD Inventory
